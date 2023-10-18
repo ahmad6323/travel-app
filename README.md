@@ -1,3 +1,23 @@
+this is the interface of this app
+![image](https://github.com/ahmad6323/travel-app/assets/111060767/69677fe0-ca13-4c3a-8408-f6727aa27c16)
+![image](https://github.com/ahmad6323/travel-app/assets/111060767/62f1faad-3d88-4c67-a563-000077ba0d31)
+![image](https://github.com/ahmad6323/travel-app/assets/111060767/c455fd98-4232-4c9c-8c0c-6eb5f3c34ffb)
+![image](https://github.com/ahmad6323/travel-app/assets/111060767/91c5e741-2fa7-47ca-8240-73a40ef0053b)
+![image](https://github.com/ahmad6323/travel-app/assets/111060767/a1b159b6-e763-4be5-81ca-f8afcb885b0c)
+![image](https://github.com/ahmad6323/travel-app/assets/111060767/28143475-befa-40d4-9eb8-cefb11125c90)
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
